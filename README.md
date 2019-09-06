@@ -19,9 +19,12 @@
 -Units: 
 
 -Force Tank
--Light Acid Tank
--Heavy Acid Tank
+
+- Acid Tank
+
 -Arthropod Heavy Mech
+
 -Wraith Medium SkyShip
+
 -Sprayer Mech
 
