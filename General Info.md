@@ -18,10 +18,11 @@
 
 -Units: 
 
--Force Tank
--Light Acid Tank
--Heavy Acid Tank
--Arthropod Heavy Mech
--Wraith Medium SkyShip
+-Force Tank Phase 1 , 2 and 3
+
+-Arthropod
+
+-Wraith Phase 1 , 2 and 3
+
 -Sprayer Mech
 
